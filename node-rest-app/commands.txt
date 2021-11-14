@@ -1,0 +1,8 @@
+mkdir node-rest-app
+cd node-rest-app
+npm init
+npm install --save express
+
+api creation
+
+node server.js
